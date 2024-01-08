@@ -1,11 +1,11 @@
 {
   "pcawg2_workflow.pcawg2.bam_tumor": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bam",
-  "pcawg_full_workflow.pcawg_full.bam_tumor_index": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bai",
-  "pcawg_full_workflow.pcawg_full.bam_normal": "/home/xpy/data/test/normal_sample.realigned.cleaned.bam",
-  "pcawg_full_workflow.pcawg_full.bam_normal_index": "/home/xpy/data/test/normal_sample.realigned.cleaned.bai",
-  "pcawg_full_workflow.pcawg_full.refdata1": "/opt/inputs/public_full10.tar.gz",
-  "pcawg_full_workflow.pcawg_full.output_disk_gb": "1000",
-  "pcawg_full_workflow.pcawg_full.ram_gb": "100",
-  "pcawg_full_workflow.pcawg_full.cpu_cores": "32"
+  "pcawg2_workflow.pcawg2.bam_tumor_index": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bai",
+  "pcawg2_workflow.pcawg2.bam_normal": "/home/xpy/data/test/normal_sample.realigned.cleaned.bam",
+  "pcawg2_workflow.pcawg2.bam_normal_index": "/home/xpy/data/test/normal_sample.realigned.cleaned.bai",
+  "pcawg2_workflow.pcawg2.refdata1": "/opt/inputs/public_full10.tar.gz",
+  "pcawg2_workflow.pcawg2.output_disk_gb": "1000",
+  "pcawg2_workflow.pcawg2.ram_gb": "100",
+  "pcawg2_workflow.pcawg2.cpu_cores": "32"
 }
 
