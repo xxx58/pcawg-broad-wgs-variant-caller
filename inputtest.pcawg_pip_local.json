@@ -1,8 +1,8 @@
 {
-  "pcawg_full_workflow.pcawg_full.bam_tumor": "/opt/inputs/hcc1143_train1_chr22.bam",
-  "pcawg_full_workflow.pcawg_full.bam_tumor_index": "/opt/inputs/hcc1143_train1_chr22.bam.bai",
-  "pcawg_full_workflow.pcawg_full.bam_normal": "/opt/inputs/hcc1143bl_train1_chr22.bam",
-  "pcawg_full_workflow.pcawg_full.bam_normal_index": "/opt/inputs/hcc1143bl_train1_chr22.bam.bai",
+  "pcawg_full_workflow.pcawg_full.bam_tumor": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bam",
+  "pcawg_full_workflow.pcawg_full.bam_tumor_index": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bai",
+  "pcawg_full_workflow.pcawg_full.bam_normal": "/home/xpy/data/test/normal_sample.realigned.cleaned.bam",
+  "pcawg_full_workflow.pcawg_full.bam_normal_index": "/home/xpy/data/test/normal_sample.realigned.cleaned.bai",
   "pcawg_full_workflow.pcawg_full.refdata1": "/opt/inputs/public_full10.tar.gz",
   "pcawg_full_workflow.pcawg_full.output_disk_gb": "1000",
   "pcawg_full_workflow.pcawg_full.ram_gb": "100",
