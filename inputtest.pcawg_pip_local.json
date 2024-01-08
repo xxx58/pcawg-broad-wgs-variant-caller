@@ -1,5 +1,5 @@
 {
-  "pcawg_full_workflow.pcawg_full.bam_tumor": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bam",
+  "pcawg2_workflow.pcawg2.bam_tumor": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bam",
   "pcawg_full_workflow.pcawg_full.bam_tumor_index": "/home/xpy/data/test/tumor_sample.realigned.cleaned.bai",
   "pcawg_full_workflow.pcawg_full.bam_normal": "/home/xpy/data/test/normal_sample.realigned.cleaned.bam",
   "pcawg_full_workflow.pcawg_full.bam_normal_index": "/home/xpy/data/test/normal_sample.realigned.cleaned.bai",
